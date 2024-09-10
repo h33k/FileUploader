@@ -1,4 +1,4 @@
-# FileUploader. Laravel 11 + Vue3
+# FileUploader. Laravel 11 + Vue3, Vue Router
 
 ## Установка
 - Создать mysql базу данных
@@ -7,6 +7,7 @@
 - `npm install`
 - `php artisan storage:link`
 - `php artisan migrate`
-
+- `php artisan key:generate`
+- `php artisan config:cache`
 - `php artisan serve`
 - `npm run dev`
