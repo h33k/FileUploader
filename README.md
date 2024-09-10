@@ -1,6 +1,6 @@
 # FileUploader. Laravel 11 + Vue3
 
-## Installation
+## Установка
 - Создать mysql базу данных
 - Создать .env файл (скопировать шаблон из .env.example) и прописать данные для подключения к бд
 - `composer install`
