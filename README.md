@@ -1,4 +1,4 @@
-# FileUploader. Laravel 11 + Vue3, Vue Router
+# FileUploader. Laravel 11 + Vue3, Vue Router, Bootstrap, Axios
 
 ## Установка
 - Создать mysql базу данных
